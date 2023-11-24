@@ -15,8 +15,7 @@ function App() {
       }}
       h="800px"
       gap="1"
-      color="blackAlpha.700"
-      fontWeight="bold"
+      color="WhiteAlpha 700"
     >
       <GridItem pl="2" area={"nav"}>
         <NavBar />
