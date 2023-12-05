@@ -1,12 +1,5 @@
 import { Game } from "../hooks/useGames";
-import {
-  Card,
-  CardBody,
-  CardHeader,
-  Heading,
-  Image,
-  Text,
-} from "@chakra-ui/react";
+import { Card, CardBody, Heading, Image } from "@chakra-ui/react";
 import PlataformGameCard from "./PlataformIconList";
 
 interface Props {
